@@ -1,3 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"> <rect width="100%" height="100%" fill="none"/> <text x="64" y="96" text-anchor="middle" dominant-baseline="middle" font-family="serif" font-size="96" font-weight="500" fill="#000">T_</text></svg>
+<img width="137" height="128" alt="image" src="https://github.com/user-attachments/assets/152cc444-8e7a-4959-a6a3-51ed9cadb7a8" />
+
 # TexTube by Cursor
 커서로 만들 예정임
