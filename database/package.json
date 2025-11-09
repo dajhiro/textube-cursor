@@ -1,0 +1,17 @@
+{
+  "name": "@textube/database",
+  "version": "0.1.0",
+  "scripts": {
+    "migrate": "node-pg-migrate",
+    "generate": "node-pg-migrate create"
+  },
+  "dependencies": {
+    "pg": "^8.11.3",
+    "node-pg-migrate": "^6.2.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.10.9",
+    "@types/node": "^20.10.0"
+  }
+}
+
